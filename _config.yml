@@ -1,4 +1,4 @@
 title: Fotsing Kuetche
-#logo: /img/
-#description: text bellow image
+logo: ![my pic](/img/myTof.png)
+description: Hi
 theme: jekyll-theme-minimal
