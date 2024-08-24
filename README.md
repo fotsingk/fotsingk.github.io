@@ -1,10 +1,6 @@
 # Welcome to My Portfolio
-
-## About Me
-
-Hello! I'm Fotsing Kuetche, a dedicated educator and researcher specializing in machine learning and applied artificial intelligence. With a solid background in science and technology, I am passionate about teaching, research, and innovation. I am currently seeking consultancy and machine learning researcher roles to further apply my skills and contribute to impactful AI-driven projects.
-
-## Skills
+---
+## My Skills
 
 - **Pedagogy and Adaptation**: Effective at tailoring complex concepts for diverse audiences.
 - **Team Spirit and Collaboration**: Strong collaborative skills in team settings.
