@@ -2,7 +2,7 @@
 ---
 ## My Skills
 
-- **Pedagogy and Adaptation**: 🌟🌟🌟🌟🌟 5/5
+- **Pedagogy and Adaptation**: 🌟🌟🌟🌟🌟 5/5\
   Effective at tailoring complex concepts for diverse audiences.
 - **Team Spirit and Collaboration**: Strong collaborative skills in team settings.
 - **Leadership and Evaluation**: Proven experience in leading projects and evaluating research.
