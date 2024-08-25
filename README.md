@@ -1,16 +1,18 @@
 # Welcome to My Portfolio
 ---
 ## My Skills & Research Interest
-👨‍🔬👨‍💻🕵️‍♂️👨‍🎓
-🧑‍🏫 **Pedagogy and Adaptation** 🧑‍🏫    |    👥🤝 **Team Spirit and Collaboration** 👥🤝 |
-💼📆 **Project Managment** 🎯💼     |    🗣️📢 **Communication** ✍️📜🗞️ 
-| 💹📈  **Data Analyzation**  📊📉 |
-💻  **Programming Languages** : Ⓜ️-MatLab,  🐍-Python, 🔵-Fortran. |
-🩺🧑‍⚕️  **Biomedical Signal Processing**⚕️  | **Meta-Heuristics and Optimization**🎯🐜 | 
-🔎**Machine Learning**💡🎰: | 
-🤖**Applied Artificial Intelligence**🤖 | ☀️♻️**Renewable Energy**: 
+
+| **Skills**                                                                 | **Research Interests**                                             |
+|----------------------------------------------------------------------------|--------------------------------------------------------------------|
+| 🧑‍🏫 **Pedagogy and Adaptation** 🧑‍🏫                                        | 🩺🧑‍⚕️⚕️ **Biomedical Signal Processing**                           |
+| 👥🤝 **Team Spirit and Collaboration** 👥🤝                                 | 🎯🐜 **Meta-Heuristics and Optimization**                           |
+| 💼📆 **Project Management** 🎯💼                                            | 🔎💡🎰 **Machine Learning**                                         |
+| 🗣️📢 **Communication** ✍️📜🗞️                                              | 🤖 🤖**Applied Artificial Intelligence**                           |
+| 💹📈 **Data Analyzation** 📊📉                                              | ☀️♻️ **Renewable Energy**                                           |
+| 💻 **Programming Languages**: Ⓜ️-MatLab, 🐍-Python, 🔵-Fortran.            |                                                                    |
+
 ----
-## Experience
+## Experience 👨‍🔬👨‍💻🕵️‍♂️👨‍🎓
 
 ### Teaching & Research Assistant, The University of Ngaoundere
 *Oct 2023 – Present*
