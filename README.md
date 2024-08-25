@@ -2,11 +2,11 @@
 ---
 ## My Skills & Research Interest
 👨‍🔬👨‍💻🕵️‍♂️👨‍🎓
-🧑‍🏫**Pedagogy and Adaptation** 🧑‍🏫 | 👥🤝**Team Spirit and Collaboration**👥🤝 |
-💼📆**Project Managment**🎯💼 | 🗣️📢**Communication**✍️📜🗞️ | 💹📈**Data Analyzation**📊📉 |
-💻**Programming Languages**: Ⓜ️-MatLab, 🐍-Python, 🔵-Fortran. |
-
-🩺🧑‍⚕️**Biomedical Signal Processing**⚕️| **Meta-Heuristics and Optimization**🎯🐜 | 
+🧑‍🏫 **Pedagogy and Adaptation** 🧑‍🏫    |    👥🤝 **Team Spirit and Collaboration** 👥🤝 |
+💼📆 **Project Managment** 🎯💼     |    🗣️📢 **Communication** ✍️📜🗞️ 
+| 💹📈  **Data Analyzation**  📊📉 |
+💻  **Programming Languages** : Ⓜ️-MatLab,  🐍-Python, 🔵-Fortran. |
+🩺🧑‍⚕️  **Biomedical Signal Processing**⚕️  | **Meta-Heuristics and Optimization**🎯🐜 | 
 🔎**Machine Learning**💡🎰: | 
 🤖**Applied Artificial Intelligence**🤖 | ☀️♻️**Renewable Energy**: 
 ----
