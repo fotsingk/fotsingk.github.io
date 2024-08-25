@@ -4,12 +4,12 @@
 
 | **Skills**                                                                 | **Research Interests**                                             |
 |----------------------------------------------------------------------------|--------------------------------------------------------------------|
-| 🧑‍🏫 **Pedagogy and Adaptation** 🧑‍🏫                                        | 🩺🧑‍⚕️⚕️ **Biomedical Signal Processing**                           |
-| 👥🤝 **Team Spirit and Collaboration** 👥🤝                                 | 🎯🐜 **Meta-Heuristics and Optimization**                           |
-| 💼📆 **Project Management** 🎯💼                                            | 🔎💡🎰 **Machine Learning**                                         |
-| 🗣️📢 **Communication** ✍️📜🗞️                                              | 🤖 🤖**Applied Artificial Intelligence**                           |
-| 💹📈 **Data Analyzation** 📊📉                                              | ☀️♻️ **Renewable Energy**                                           |
-| 💻 **Programming Languages**: Ⓜ️-MatLab, 🐍-Python, 🔵-Fortran.            |                                                                    |
+| 🧑‍🏫🧑‍🏫  **Pedagogy and Adaptation**                                        | 🩺🧑‍⚕️⚕️  **Biomedical Signal Processing**                           |
+| 👥🤝  **Team Spirit and Collaboration**   👥🤝                                 | 🎯🐜  **Meta-Heuristics and Optimization**                           |
+| 💼📆  **Project Management**   🎯💼                                            | 🔎💡🎰  **Machine Learning**                                         |
+| 🗣️📢  **Communication**  ✍️📜🗞️                                              | 🤖🤖 **Applied Artificial Intelligence**                           |
+| 💹📈  **Data Analyzation**   📊📉                                              | ☀️♻️  **Renewable Energy**                                           |
+| 💻     **Programming Languages**: Ⓜ️- MatLab, 🐍 - Python, 🔵- Fortran.            |                                                                    |
 
 ----
 ## Experience 👨‍🔬👨‍💻🕵️‍♂️👨‍🎓
