@@ -19,13 +19,13 @@
 
 - Led tutorials on signal processing, basic electronics, programming languages, and code debugging.
 - Assisted and supervised graduate students in laboratory settings.
-- Conducted research on AI models for telemedicine applications.
+- Conducted research on algorithms and AI models for telemedicine applications.
 
 ### Reviewer 
-*2023 – Present*
-    Engineering Application of Artificial Intelligence
-    Informatics in Medicine
-    Biomed. Phys. Eng. Express
+*2023 – Present*  
+Journals : Engineering Application of Artificial Intelligence, 
+    Informatics in Medicine, 
+    Biomed. Phys. Eng. Express, IEEE Transactions on Systems, Man and Cybernetics: Systems
 
 - Evaluated journal submissions based on quality, completeness, and accuracy of research.
 
