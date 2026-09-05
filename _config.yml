@@ -1,9 +1,28 @@
-title: Fotsing Kuetche
+title: Fotsing Kuetche, PhD
 logo: "/img/pic_10.png?raw=true"
-description:
-  Hi I’m Fotsing Kuetche, a dedicated educator and researcher specializing in machine learning and applied artificial intelligence. 
-  With a solid background in science and technology, I am passionate about teaching, research, and innovation.
+description: >
+  AI Researcher & Lecturer specializing in resource-efficient and trustworthy
+  machine learning, with applications in biomedical signal processing,
+  renewable energy, and edge/mobile AI.
   <br><br>
-  <a href="https://www.linkedin.com/in/fkuetche/">Let's Connect on LinkedIn</a>   ---   
-  <a href="mailto:fotsing.fk@gmail.com/">Mail me</a>
+  <a href="https://scholar.google.com/citations?user=_5rPAD8AAAAJ&hl=en">Google Scholar</a> &nbsp;·&nbsp;
+  <a href="https://orcid.org/0000-0002-5946-2248">ORCID</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/fkuetche/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/fotsingk?tab=repositories">GitHub</a> &nbsp;·&nbsp;
+  <a href="mailto:fotsing.fk@gmail.com">Mail me</a>
+
 theme: jekyll-theme-minimal
+show_downloads: false
+
+# SEO / social preview
+lang: en
+author: Fotsing Kuetche
+twitter:
+  card: summary
+url: "https://fotsingk.github.io"
+
+# Markdown / rendering
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
