@@ -31,14 +31,17 @@ layout: default
     <p class="profile-role">AI Researcher & Lecturer</p>
     <div class="profile-line"></div>
     <p class="profile-focus">Reliable AI · Edge AI · Biomedical AI</p>
+    <div class="profile-line"></div>
+    <a class="btn btn-secondary" href="#about">CV (Online) ↓</a>
   </div>
 </header>
 
 <nav class="site-nav" aria-label="Main navigation">
   <a href="#research">Research</a>
-  <a href="#projects">Projects</a>
+  <a href="#current-projects">Current Projects</a>
+  <a href="#software">Software</a>
   <a href="#publications">Publications</a>
-  <a href="#about">About</a>
+  <a href="#about">CV (Online)</a>
   <a href="#contact">Contact</a>
 </nav>
 
@@ -96,123 +99,187 @@ layout: default
   </div>
 </section>
 
-<section class="section dark-section" id="projects">
+<section class="section dark-section" id="current-projects">
   <div class="section-heading light">
-    <p class="eyebrow">SELECTED WORK</p>
-    <h2>Research projects</h2>
+    <p class="eyebrow">ONGOING WORK</p>
+    <h2>Current projects</h2>
   </div>
 
+  <p class="eyebrow" style="margin-top:10px;">HEALTHCARE</p>
   <div class="project-grid">
-    <article class="project-card featured">
+    <article class="project-card">
       <div class="project-top">
         <span class="project-type">Biomedical AI</span>
-        <span class="project-status">Published</span>
+        <span class="project-status">Ongoing</span>
       </div>
+      <h3>Trustworthy Representation Learning for Arrhythmia Prediction</h3>
+      <p>
+        Representation learning methods for arrhythmia prediction designed to
+        remain robust and trustworthy when deployed on mobile devices.
+      </p>
+      <div class="project-bottom">
+        <span>Mobile · Trustworthy AI</span>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <div class="project-top">
+        <span class="project-type">Biomedical AI</span>
+        <span class="project-status">Ongoing</span>
+      </div>
+      <h3>Neuro-Symbolic Arrhythmia Detection</h3>
+      <p>
+        Combining an ECG delineation network with a rule-based, optimized
+        transformer for interpretable arrhythmia detection.
+      </p>
+      <div class="project-bottom">
+        <span>Neuro-symbolic AI</span>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <div class="project-top">
+        <span class="project-type">Biomedical AI</span>
+        <span class="project-status">Ongoing</span>
+      </div>
+      <h3>ECG Quality Assessment via Deep Neural Networks</h3>
+      <p>
+        Extending ECG signal quality assessment methods using deep neural
+        network architectures for more robust quality scoring.
+      </p>
+      <div class="project-bottom">
+        <span>Deep Learning</span>
+      </div>
+    </article>
+  </div>
+
+  <p class="eyebrow" style="margin-top:40px;">AGRICULTURE</p>
+  <div class="project-grid">
+    <article class="project-card">
+      <div class="project-top">
+        <span class="project-type">Agri-Tech</span>
+        <span class="project-status">Ongoing</span>
+      </div>
+      <h3>Lightweight Deep Learning for Pest Detection</h3>
+      <p>
+        A survey and comparison of lightweight deep learning models for
+        detecting agricultural pests relevant to Sub-Saharan African crops.
+      </p>
+      <div class="project-bottom">
+        <span>Edge AI · Survey</span>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <div class="project-top">
+        <span class="project-type">Agri-Tech</span>
+        <span class="project-status">Ongoing</span>
+      </div>
+      <h3>Mobile App for Pest Detection</h3>
+      <p>
+        A multi-task learning mobile app that lets users select their crop
+        before capturing an image, with support for local languages.
+      </p>
+      <div class="project-bottom">
+        <span>Multi-task Learning</span>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <div class="project-top">
+        <span class="project-type">Agri-Tech</span>
+        <span class="project-status">Ongoing</span>
+      </div>
+      <h3>Physics-Informed Neural Networks for Biomass Prediction</h3>
+      <p>
+        Applying physics-informed neural network architectures to predict
+        crop biomass.
+      </p>
+      <div class="project-bottom">
+        <span>Physics-Informed NN</span>
+      </div>
+    </article>
+  </div>
+
+  <p class="eyebrow" style="margin-top:40px;">EDUCATION</p>
+  <div class="project-grid">
+    <article class="project-card">
+      <div class="project-top">
+        <span class="project-type">EdTech</span>
+        <span class="project-status">Ongoing</span>
+      </div>
+      <h3>Quantization-Aware Training for Small Language Models</h3>
+      <p>
+        Comparing quantization-aware training methods for small language
+        models, applied to an offline mathematics tutoring tool for
+        secondary school students.
+      </p>
+      <div class="project-bottom">
+        <span>SLM · Quantization</span>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <div class="project-top">
+        <span class="project-type">EdTech</span>
+        <span class="project-status">Ongoing</span>
+      </div>
+      <h3>MathTutor</h3>
+      <p>
+        An offline mobile tutoring application for secondary school
+        mathematics.
+      </p>
+      <div class="project-bottom">
+        <span>Offline · Mobile</span>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <div class="project-top">
+        <span class="project-type">EdTech</span>
+        <span class="project-status">Ongoing</span>
+      </div>
+      <h3>Does AI Improve Learning Outcomes?</h3>
+      <p>
+        An empirical study investigating whether AI-based tools improve
+        student learning outcomes.
+      </p>
+      <div class="project-bottom">
+        <span>Empirical Study</span>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="section" id="software">
+  <div class="section-heading">
+    <p class="eyebrow">RESEARCH SOFTWARE & APPLICATIONS</p>
+    <h2>Software</h2>
+  </div>
+
+  <div class="research-grid">
+    <article class="research-card">
+      <span class="card-number">ecgScorer</span>
       <h3>ecgScorer</h3>
-      <p>
-        An open-source MATLAB toolbox for ECG signal quality assessment,
-        supporting reliable downstream analysis and telemedicine applications.
-      </p>
-      <div class="project-bottom">
-        <span>37 signal quality indices</span>
-        <a href="https://github.com/fotsingk?tab=repositories">Explore GitHub ↗</a>
-      </div>
+      <p>Open-source MATLAB toolbox for ECG signal quality assessment, extracting 37 signal quality indices.</p>
+      <div class="tags"><span>MATLAB</span><span>Open Source</span><span>Published</span></div>
+      <p style="margin-top:16px;"><a class="text-link" href="https://github.com/fotsingk/ecgScorer">View on GitHub →</a></p>
     </article>
 
-    <article class="project-card">
-      <div class="project-top">
-        <span class="project-type">Edge AI</span>
-        <span class="project-status">Published</span>
-      </div>
-      <h3>DeepAF</h3>
-      <p>
-        Multi-task deep learning for arrhythmia detection on
-        resource-constrained mobile devices.
-      </p>
-      <div class="project-bottom">
-        <span>Mobile · Efficient DL</span>
-        <a href="https://scholar.google.com/citations?user=_5rPAD8AAAAJ&hl=en">Paper ↗</a>
-      </div>
+    <article class="research-card">
+      <span class="card-number">BioSig</span>
+      <h3>BioSig Annotator (ECGAnn)</h3>
+      <p>Desktop tool for annotating ECG signals, supporting labeled dataset creation for arrhythmia research.</p>
+      <div class="tags"><span>Desktop App</span><span>Open Source</span></div>
+      <p style="margin-top:16px;"><a class="text-link" href="https://github.com/fotsingk/ECGann/releases/download/V1.0.0/BioSig_Annotator_v1.0.0_installer.exe">Download installer →</a></p>
     </article>
 
-    <article class="project-card">
-      <div class="project-top">
-        <span class="project-type">Renewable Energy</span>
-        <span class="project-status">Published</span>
-      </div>
-      <h3>PV Fault Diagnosis</h3>
-      <p>
-        Machine learning and deep learning methods for detecting and classifying
-        photovoltaic array faults from electrical characteristics.
-      </p>
-      <div class="project-bottom">
-        <span>AI · Diagnostics</span>
-        <a href="https://scholar.google.com/citations?user=_5rPAD8AAAAJ&hl=en">Publications ↗</a>
-      </div>
-    </article>
-
-    <article class="project-card">
-      <div class="project-top">
-        <span class="project-type">Mobile · EdTech</span>
-        <span class="project-status">Published</span>
-      </div>
+    <article class="research-card">
+      <span class="card-number">QuizMed</span>
       <h3>QuizMed</h3>
-      <p>
-        Mobile exam-preparation app (Flutter/Supabase) for Cameroonian medical
-        school entrance exams (FMSB, IDE).
-      </p>
-      <div class="project-bottom">
-        <span>Flutter · Supabase</span>
-        <a href="#contact">Play Store link ↗</a>
-      </div>
-    </article>
-
-    <article class="project-card">
-      <div class="project-top">
-        <span class="project-type">Mobile · Offline Commerce</span>
-        <span class="project-status">Published</span>
-      </div>
-      <h3>Digishop</h3>
-      <p>
-        An offline-first business and commerce management tool, built for
-        environments with unreliable connectivity.
-      </p>
-      <div class="project-bottom">
-        <span>Offline-first</span>
-        <a href="https://github.com/fotsingk?tab=repositories">Explore GitHub ↗</a>
-      </div>
-    </article>
-
-    <article class="project-card">
-      <div class="project-top">
-        <span class="project-type">Biomedical AI · Tooling</span>
-        <span class="project-status">Open Source</span>
-      </div>
-      <h3>ECGanotator</h3>
-      <p>
-        An open-source tool for annotating ECG signals, supporting labeled
-        dataset creation for arrhythmia research.
-      </p>
-      <div class="project-bottom">
-        <span>Annotation tool</span>
-        <a href="https://github.com/fotsingk?tab=repositories">Explore GitHub ↗</a>
-      </div>
-    </article>
-
-    <article class="project-card">
-      <div class="project-top">
-        <span class="project-type">Current direction</span>
-        <span class="project-status">2026–</span>
-      </div>
-      <h3>Reliable Edge AI</h3>
-      <p>
-        A broader research program combining robust learning, trustworthy
-        inference and deep compression for real-world low-resource environments.
-      </p>
-      <div class="project-bottom">
-        <span>RRE-AI</span>
-        <a href="#contact">Collaborate ↗</a>
-      </div>
+      <p>Mobile exam-preparation app (Flutter/Supabase) for Cameroonian medical school entrance exams (FMSB, IDE).</p>
+      <div class="tags"><span>Flutter</span><span>Supabase</span><span>Play Store</span></div>
+      <p style="margin-top:16px;"><a class="text-link" href="https://play.google.com/store/apps/details?id=com.luminanz.quiz_med">Get it on Play Store →</a></p>
     </article>
   </div>
 </section>
@@ -294,8 +361,8 @@ layout: default
 
 <section class="section about-section" id="about">
   <div class="section-heading">
-    <p class="eyebrow">ABOUT</p>
-    <h2>Researcher first. Builder second. Lecturer third.</h2>
+    <p class="eyebrow">CV (ONLINE)</p>
+    <h2>Researching. Building. Impacting.</h2>
   </div>
 
   <div class="about-grid">
@@ -310,17 +377,36 @@ layout: default
         I therefore focus on methods that are not only accurate in the laboratory,
         but also efficient, robust and deployable.
       </p>
+      <p style="margin-top:30px;"><a class="text-link" href="/assets/CV_Fotsing_Kuetche.pdf">Download full CV (PDF) →</a></p>
     </div>
 
-    <div class="facts">
-      <div><span>PhD</span><strong>Electronics, Automatics & Computer Science — Univ. Ngaoundéré (2021–2024)</strong></div>
-      <div><span>MSc</span><strong>Electronics, Electrical Engineering & Automatics — GPA 3.54/4.00 (2018–2020)</strong></div>
-      <div><span>BSc</span><strong>Physics — Univ. Ngaoundéré (2017)</strong></div>
-      <div><span>Core tools</span><strong>Python · MATLAB/Simulink · Flutter · SQL</strong></div>
-      <div><span>Applications</span><strong>Healthcare · Energy · Edge AI</strong></div>
-      <div><span>Open science</span><strong>Software · Reproducible experiments · Datasets</strong></div>
-      <div><span>Awards</span><strong>Prize for Academic Excellence (2021, 2022, 2023) — Head of State of Cameroon</strong></div>
-      <div><span>Grants</span><strong>Sigma Xi Grant-in-Aid of Research (2023)</strong></div>
+    <div>
+      <p class="eyebrow">SKILLS</p>
+      <div class="facts">
+        <div><span>Programming</span><strong>Python · MATLAB/Simulink · Flutter · SQL</strong></div>
+        <div><span>Research</span><strong>Signal Processing · Machine Learning · Model Compression</strong></div>
+        <div><span>Other</span><strong>Pedagogy & Adaptation · Project Management · Communication · Team Collaboration</strong></div>
+      </div>
+
+      <p class="eyebrow" style="margin-top:32px;">EXPERIENCE</p>
+      <div class="facts">
+        <div><span>2025–Present</span><strong>Lecturer, The ICT University — AI, Data Science, Deep Learning, Research Methodology</strong></div>
+        <div><span>2022–2024</span><strong>Teaching & Research Assistant, Univ. Ngaoundéré — Signal processing, electronics, AI for telemedicine</strong></div>
+        <div><span>2023–Present</span><strong>Reviewer — Engineering Applications of AI, Informatics in Medicine, Biomed. Phys. Eng. Express, IEEE T-SMC</strong></div>
+      </div>
+
+      <p class="eyebrow" style="margin-top:32px;">EDUCATION</p>
+      <div class="facts">
+        <div><span>PhD</span><strong>Electronics, Automatics & Computer Science — Univ. Ngaoundéré (2021–2024)</strong></div>
+        <div><span>MSc</span><strong>Electronics, Electrical Engineering & Automatics — GPA 3.54/4.00 (2018–2020)</strong></div>
+        <div><span>BSc</span><strong>Physics — Univ. Ngaoundéré (2017)</strong></div>
+      </div>
+
+      <p class="eyebrow" style="margin-top:32px;">AWARDS & GRANTS</p>
+      <div class="facts">
+        <div><span>Awards</span><strong>Prize for Academic Excellence (2021, 2022, 2023) — Head of State of Cameroon</strong></div>
+        <div><span>Grants</span><strong>Sigma Xi Grant-in-Aid of Research (2023)</strong></div>
+      </div>
     </div>
   </div>
 </section>
