@@ -383,8 +383,8 @@ layout: default
     <div>
       <p class="eyebrow">SKILLS</p>
       <div class="facts">
-        <div><span>Programming</span><strong>Python · MATLAB/Simulink · Flutter · SQL</strong></div>
-        <div><span>Research</span><strong>Signal Processing · Machine Learning · Model Compression</strong></div>
+        <div><span>Programming</span><strong>Python · MATLAB · Flutter</strong></div>
+        <div><span>Research</span><strong>Signal Processing · Machine Learning · Deep Learning · Edge AI · Meta-Heuristics</strong></div>
         <div><span>Other</span><strong>Pedagogy & Adaptation · Project Management · Communication · Team Collaboration</strong></div>
       </div>
 
