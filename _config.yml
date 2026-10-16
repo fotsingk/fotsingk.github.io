@@ -6,9 +6,6 @@ lang: en
 author: "Fotsing Kuetche"
 logo: "/img/pic_10.png"
 
-theme: jekyll-theme-minimal
-show_downloads: false
-
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
